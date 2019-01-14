@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Praise</string>
+    <string name="yes_string">YES</string>
+    <string name="no_string">NO</string>
+    <string name="priase_string">Dr. Lewis is da bomb.</string>
+    <string name="yes_click_string">You the man!</string>
+    <string name="no_click_string">Ah, Bubba!</string>
+</resources>
